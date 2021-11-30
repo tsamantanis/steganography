@@ -141,3 +141,5 @@ cython_debug/
 solutions.py
 solutions/
 templates/solutions/
+
+.vscode
